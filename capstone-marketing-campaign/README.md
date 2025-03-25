@@ -4,6 +4,8 @@
 
 Este proyecto final tiene como objetivo aplicar los conocimientos adquiridos en el curso de análisis de datos para crear un informe interactivo en Power BI basado en los datos proporcionados por **DH Marketing Consultants**. El objetivo es explorar y analizar los datos de marketing de la empresa y generar valor a través de visualizaciones efectivas.
 
+Este proyecto ha sido realizado íntegramente por mí, desde la limpieza y transformación de los datos hasta el análisis y la creación de visualizaciones interactivas en Power BI.
+
 Como analista de datos, se deben realizar diversas actividades para garantizar la limpieza, transformación y análisis de los datos, y finalmente presentar las conclusiones mediante visualizaciones interactivas.
 
 ## Objetivos del Proyecto
@@ -54,11 +56,11 @@ Antes de comenzar este proyecto, los estudiantes deben estar familiarizados con 
 4. Una hoja oculta de **anotaciones**.
 
 ### Visualizaciones Incluidas
+- **General**: Visión general de los datos combinados.
 - **Campañas**: Análisis de las 5 campañas de marketing realizadas.
 - **Productos**: Datos sobre los productos promocionados en las campañas.
-- **Canal**: Análisis de los canales utilizados en las campañas.
 - **Cliente**: Información sobre los clientes y su comportamiento en las campañas.
-- **General**: Visión general de los datos combinados.
+- **Canal**: Análisis de los canales utilizados en las campañas.
 
 ## Fuente de Datos
 
