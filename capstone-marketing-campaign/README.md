@@ -88,3 +88,6 @@ Este proyecto está bajo la licencia **MIT License**.
 
 ## Image preview
 ![Preview](https://raw.githubusercontent.com/isromar/power-bi-projects/refs/heads/main/capstone-marketing-campaign/preview.JPG)
+
+## Informe en PDF
+[Descargar el informe en PDF](https://github.com/isromar/power-bi-projects/raw/main/capstone-marketing-campaign/project_isabel_rm.pdf)
