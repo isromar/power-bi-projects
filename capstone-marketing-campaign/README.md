@@ -83,3 +83,6 @@ Este es un proyecto individual como parte del ejercicio final del curso. Sin emb
 ## Licencia
 
 Este proyecto está bajo la licencia **MIT License**.
+
+## Image preview
+![Preview](https://raw.githubusercontent.com/isromar/power-bi-projects/refs/heads/main/capstone-marketing-campaign/preview.JPG)
