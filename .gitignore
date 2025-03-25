@@ -1,0 +1,30 @@
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema de macOS
+.DS_Store
+
+# Archivos de sistema de Windows
+Thumbs.db
+
+# Archivos de entornos virtuales (Python)
+env/
+venv/
+
+# Archivos de dependencias de Node.js
+node_modules/
+
+# Archivos de dependencias de Python
+__pycache__/
+*.pyc
+
+# Archivos generados de compilación
+dist/
+build/
+
+# Archivos de configuración de Power BI (si no los quieres compartir)
+.vscode/settings.json
